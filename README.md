@@ -1,5 +1,6 @@
 XFramework.xctemplate
 =====================
+License : The MIT License (MIT)
 
 custom framework template for Xcode
 =====================
